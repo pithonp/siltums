@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Akumulators</string>
+    <string name="widget_title">Siltuma akumulators</string>
+    <string name="widget_desc">Atlikušais siltums, laiks un temperatūras</string>
+    <color name="ic_bg">#FF1E1C17</color>
+</resources>
